@@ -1,1 +1,16 @@
-# 1space-UI
+## 
+
+Onespace-UI-beta
+
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn start
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn build
