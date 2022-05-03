@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://1space.me">
-    <img alt="1space" src="[1space.me](https://1space.me/images/os-logo-white.jpeg)" style="background: black; padding: 10px" width="250" />
+    <img alt="1space" src="/public/logo1sp1.png" style="background: black; padding: 10px" width="250" />
   </a>
 </p>
 
