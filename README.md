@@ -1,9 +1,23 @@
-https://raw.githubusercontent.com/samurai-Nash/token-list/4b6ebc70a4225d89cc885bee07c997ca0bc0cd92/logo.png
+<p align="center">
+  <a href="https://1space.me">
+    <img alt="1space" src="[1space.me](https://1space.me/images/os-logo-white.jpeg)" style="background: black; padding: 10px" width="250" />
+  </a>
+</p>
 
 Onespace-UI-beta
+## Community
 
-# install dependencies
-$ yarn install
+- [Discord](https://discord.com/invite/xud97tybPc)
+- [telegram](https://t.me/Onespace_tech)
+- [Twitter](https://twitter.com/1space_me)
 
-serve with hot reload at localhost:3000
+
+## install
+
+Clone the repo, and run `yarn start` to deploy.
+
+```bash
+$ git clone https://github.com/Onespace-Project/1space-UI
+$ yarn install && yarn build
 $ yarn start
+```
