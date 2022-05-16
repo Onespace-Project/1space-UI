@@ -46,9 +46,9 @@ export const AppBar = (props: { left?: JSX.Element; right?: JSX.Element }) => {
               Liquidity
             </NavLink>
           </Menu.Item>
-          <Menu.Item disabled key="/dex">
+          <Menu.Item key="/dex">
             <a
-              href="https://app.1space.me/"
+              href="https://dex.1space.me/"
               target="_blank"
               rel="noopener noreferrer"
             >
