@@ -88,9 +88,9 @@ export const AppBar = (props: { left?: JSX.Element; right?: JSX.Element }) => {
               Dashboard
             </NavLink>
           </Menu.Item>
-          <Menu.Item disabled key="/doc">
+          <Menu.Item key="/doc">
             <a
-              href="https://app.1space.me/"
+              href="https://docs.1space.me/"
               target="_blank"
               rel="noopener noreferrer"
             >
