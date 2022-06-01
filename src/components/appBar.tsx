@@ -75,10 +75,16 @@ export const AppBar = (props: { left?: JSX.Element; right?: JSX.Element }) => {
             </NavLink>
           </Menu.Item>
           
-          
-          <Menu.Item disabled key="nft">
-            NFT
+          <Menu.Item key="/nft">
+            <a
+              href="https://nft.1space.me/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              NFT
+            </a>
           </Menu.Item>
+          
           <Menu.Item disabled key="/dashboard">
             <NavLink
               to={{
